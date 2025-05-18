@@ -21,10 +21,10 @@
 
 为了快速上手，以下是我们精选的国内镜像站点，筛选的条件重点是稳定、可靠、真实：
 
-| 网站名称               | 支持功能                                 | 类型              | 访问方式                                                                                                      |
-|------------------------|------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------|
-| 一下AI                 | GPT-4.0、GPT o1、Grok、Claude 3.7 Sonnet、AI绘画、AI翻译            | 网站              | [xsimplechat.com](http://xsimplechat.com)                                                                     |
-| Lify Chat              | GPT-4.0、GPT4.0 turbo、GPT o1、Claude、Grok、AI PPT、插件 | 网站              | [chat.lanjing.pro](http://chat.lanjing.pro)                                                                          |
+| 网站名称   | 支持功能                                              | 类型   | 访问方式                                              |
+|------------|-------------------------------------------------------|--------|-------------------------------------------------------|
+| 一下AI     | GPT-4.0、GPT o1、Grok、Claude 3.7 Sonnet、AI绘画、AI翻译 | 网站   | [xsimplechat.com](http://xsimplechat.com)             |
+| Lify Chat  | GPT-4.0、GPT4.0 turbo、GPT o1、Claude、Grok、AI PPT、插件 | 网站   | [chat.lanjing.pro](http://chat.lanjing.pro)           |
 ---
 
 ## 为什么选择 ChatGPT 中文版？
