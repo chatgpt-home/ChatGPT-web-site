@@ -1,6 +1,6 @@
 # ChatGPT 中文版 网站：国内访问指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）
 ---
-> **更新日期：2025年5月19日**
+> **更新日期：2025年7月2日**
 
 **这是一份非常全面的指南，帮助您轻松使用 ChatGPT 中文版，无需科学上网即可体验 GPT-4 的全部功能！**  
 在本文中，您将了解如何通过推荐的镜像网站访问 ChatGPT 中文版、注册使用的具体步骤，以及常见问题的解答。
@@ -24,7 +24,7 @@
 | 网站名称   | 支持功能                                              | 类型   | 访问方式                                              |
 |------------|-------------------------------------------------------|--------|-------------------------------------------------------|
 | 一下AI     | GPT-4.0、GPT o1、Grok、Claude 3.7 Sonnet、AI绘画、AI翻译 | 网站   | [xsimplechat.com](http://xsimplechat.com)             |
-| Lify Chat  | GPT-4.0、GPT4.0 turbo、GPT o1、Claude、Grok、AI PPT、插件 | 网站   | [chat.lanjing.pro](http://chat.lanjing.pro)           |
+| Lify Chat  | GPT-4.0、GPT4.0 turbo、GPT o1、Claude、Grok、AI PPT、插件 | 网站   | [chat.lanjingai.org](http://chat.lanjingai.org)           |
 ---
 
 ## 为什么选择 ChatGPT 中文版？
