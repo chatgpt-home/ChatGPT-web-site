@@ -23,8 +23,8 @@
 
 | 网站名称   | 支持功能                                              | 类型   | 访问方式                                              |
 |------------|-------------------------------------------------------|--------|-------------------------------------------------------|
-| 一下AI     | GPT-4.0、GPT o1、Grok、Claude 3.7 Sonnet、AI绘画、AI翻译 | 网站   | [xsimplechat.com](http://xsimplechat.com)             |
-| Lify Chat  | GPT-4.0、GPT4.0 turbo、GPT o1、Claude、Grok、AI PPT、插件 | 网站   | [chat.lanjingai.org](http://chat.lanjingai.org)           |
+| 一下AI     | GPT-5、GPT-4.0、GPT o1、Grok、Claude 3.7 Sonnet、AI绘画、AI翻译 | 网站   | [xsimplechat.com](http://xsimplechat.com)             |
+| Lify Chat  | GPT-5、GPT-4.0、GPT4.0 turbo、GPT o1、Claude、Grok、AI PPT、插件 | 网站   | [chat.lanjingai.org](http://chat.lanjingai.org)           |
 ---
 
 ## 为什么选择 ChatGPT 中文版？
